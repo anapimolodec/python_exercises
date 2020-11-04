@@ -1,5 +1,6 @@
 # python_exercises
 some exercises from Python Bootcamp
+
 Welcome!
 Here I save some of the exercise I did on this course! 
 https://www.udemy.com/course/complete-python-bootcamp/ 
